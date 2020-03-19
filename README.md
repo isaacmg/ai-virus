@@ -22,6 +22,8 @@ For an [introduction see my article](https://towardsdatascience.com/machine-lear
 
 ### Forecasting (flu spread, patient prognosis planning, etc)
 
+#### Articles 
+
 [Prediction of criticality in patients with severe Covid-19 infection using three clinical features: a machine learning-based prognostic model with clinical data in Wuhan](https://www.medrxiv.org/content/10.1101/2020.02.27.20028027v2)
 
 [Finding an Accurate Early Forecasting Model from Small Dataset: A Case of 2019-nCoV Novel Coronavirus Outbreak](https://s3.amazonaws.com/academia.edu.documents/62039210/IJIMAI-2019-coronavirus-v4_120200208-75766-i6rk7f.pdf?response-content-disposition=inline%3B%20filename%3DFinding_an_Accurate_Early_Forecasting_Mo.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20200316%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200316T020625Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=aa188c718fce937b909b28faf53d0f5f8f074cf0727db3c2d649dcdbad861b55)
@@ -32,21 +34,36 @@ For an [introduction see my article](https://towardsdatascience.com/machine-lear
 
 #### Datasets
 
-[Canada COVID-2019 Data]()
+[Canada COVID-2019 Data](https://docs.google.com/spreadsheets/d/1D6okqtBS3S2NRC7GFVHzaZ67DuTw7LX49-fqSLwJyeo/edit#gid=942958991)
 
 [Coronavirus Daily Data on Infection Rates](https://github.com/willhaslett/covid-19-growth)
 
-[Daily Dataset and Visualizer][(https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset)
+[Daily Dataset and Visualizer](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset)
 
 
 ### Imaging 
 
 #### Articles 
 
+[Deep learning-based model for detecting 2019 novel coronavirus pneumonia on high-resolution computed tomography: a prospective study](https://www.medrxiv.org/content/10.1101/2020.02.25.20021568v2.full.pdf)
+
+[A deep learning algorithm using CT images to screen for CoronaVirus Disease (COVID-19](https://www.medrxiv.org/content/10.1101/2020.02.14.20023028v3)
+
+[Deep Learning System to Screen Coronavirus Disease 2019 Pneumonia](https://arxiv.org/pdf/2002.09334.pdf)
+
+[Rapid AI Development Cycle for the Coronavirus (COVID-19) Pandemic: Initial Results for Automated Detection & Patient Monitoring using Deep Learning CT Image Analysis](https://arxiv.org/abs/2003.05037v1)
+
 #### Datasets
 
 [Coronavirus CT Collection](https://github.com/ieee8023/covid-chestxray-dataset)
 
-### NLP on literature and Social Media Mining 
+
+### NLP literature on the viruses and social media mining
+
+A review of influenza detection and prediction through social networking sites
+
+Forecasting Influenza Levels using realtime social media streams
+
+Regional Influenza Prediction with Sampling Twitter Data
 
 ## Datasets 
