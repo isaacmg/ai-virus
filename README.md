@@ -40,6 +40,8 @@ For an [introduction see my article](https://towardsdatascience.com/machine-lear
 
 [Daily Dataset and Visualizer](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset)
 
+[Healthcare System Capacity](https://daveluo.github.io/covid19-healthsystemcapacity/)
+
 
 ### Imaging 
 
@@ -57,13 +59,21 @@ For an [introduction see my article](https://towardsdatascience.com/machine-lear
 
 [Coronavirus CT Collection](https://github.com/ieee8023/covid-chestxray-dataset)
 
+[Defeat COVID 2019 Italian Imaging Data (requires joining)](https://www.defeatcovid19.org/)
+
 
 ### NLP literature on the viruses and social media mining
 
-A review of influenza detection and prediction through social networking sites
+[A review of influenza detection and prediction through social networking sites](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5793414/)
 
-Forecasting Influenza Levels using realtime social media streams
+[Forecasting Influenza Levels using realtime social media streams](https://www.scholars.northwestern.edu/en/publications/forecasting-influenza-levels-using-real-time-social-media-streams)
 
-Regional Influenza Prediction with Sampling Twitter Data
+[Regional Influenza Prediction with Sampling Twitter Data](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&ved=2ahUKEwiS4OG_y6DoAhWYlHIEHWBgDGIQFjAHegQIBxAB&url=https%3A%2F%2Fwww.mdpi.com%2F1660-4601%2F17%2F3%2F678%2Fpdf&usg=AOvVaw28lUY2oEaS9FCUQR6UF6Tf)
 
 ## Datasets 
+
+[COVID-2019 Open Research](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
+
+[IEEE Coronavirus Tweets](https://ieee-dataport.org/open-access/corona-virus-covid-19-tweets-dataset)
+
+[Coronavirus Tweets Kaggle](https://www.kaggle.com/smid80/coronavirus-covid19-tweets)
