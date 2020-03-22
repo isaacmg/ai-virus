@@ -4,7 +4,7 @@ Master list of data and research on applying machine learning to COVID-19 and ot
 ## Introduction 
 For an [introduction see my article](https://towardsdatascience.com/machine-learning-methods-to-aid-in-coronavirus-response-70df8bfc7861). 
 
-## Other Master Lists/Groups
+### Other Master Lists/Groups
 
 [Data Against COVID-2019](https://discourse.data-against-covid.org)
 
