@@ -70,6 +70,10 @@ For an [introduction see my article](https://towardsdatascience.com/machine-lear
 
 [Regional Influenza Prediction with Sampling Twitter Data](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&ved=2ahUKEwiS4OG_y6DoAhWYlHIEHWBgDGIQFjAHegQIBxAB&url=https%3A%2F%2Fwww.mdpi.com%2F1660-4601%2F17%2F3%2F678%2Fpdf&usg=AOvVaw28lUY2oEaS9FCUQR6UF6Tf)
 
+#### Using NLP for drug screening
+[Corona-text-mining](https://github.com/romasalah/Corona-text-mining)
+
+
 ## Datasets 
 
 [COVID-2019 Open Research](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
