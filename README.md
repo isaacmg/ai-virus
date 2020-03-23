@@ -44,6 +44,10 @@ For an [introduction see my article](https://towardsdatascience.com/machine-lear
 
 [Coronavirus Daily Data on Infection Rates](https://github.com/willhaslett/covid-19-growth)
 
+[Coronavirus Global Spread Competition]()
+
+[Coronavirus California Spread Competition](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1)
+
 [Daily Dataset and Visualizer](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset)
 
 [Healthcare System Capacity](https://daveluo.github.io/covid19-healthsystemcapacity/)
