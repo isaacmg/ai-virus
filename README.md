@@ -8,6 +8,8 @@ For an [introduction see my article](https://towardsdatascience.com/machine-lear
 
 [Data Against COVID-2019](https://discourse.data-against-covid.org)
 
+[Delphi team](https://covidcast.cmu.edu/covid19-response-team.html)
+
 [MILA List](https://docs.google.com/document/d/1Wkvbf2t2Da87NtNvMJf_PRqv9zLHyqqtRitBIGGKKNM/edit#heading=h.m7aq1vqtpegc)
 
 ### Drug Discovery and Structure 
@@ -44,7 +46,7 @@ For an [introduction see my article](https://towardsdatascience.com/machine-lear
 
 [Coronavirus Daily Data on Infection Rates](https://github.com/willhaslett/covid-19-growth)
 
-[Coronavirus Global Spread Competition]()
+[Coronavirus Global Spread Competition](https://www.kaggle.com/c/covid19-global-forecasting-week-1)
 
 [Coronavirus California Spread Competition](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1)
 
