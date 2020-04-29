@@ -30,6 +30,8 @@ For an [introduction see my article](https://towardsdatascience.com/machine-lear
 
 ### Forecasting (flu spread, patient prognosis planning, etc)
 
+[London](https://github.com/ImperialCollegeLondon/covid19model)
+
 #### Articles 
 
 [Prediction of criticality in patients with severe Covid-19 infection using three clinical features: a machine learning-based prognostic model with clinical data in Wuhan](https://www.medrxiv.org/content/10.1101/2020.02.27.20028027v2)
@@ -51,6 +53,8 @@ For an [introduction see my article](https://towardsdatascience.com/machine-lear
 [Coronavirus California Spread Competition](https://www.kaggle.com/c/covid19-local-us-ca-forecasting-week-1)
 
 [Daily Dataset and Visualizer](https://github.com/ThisIsIsaac/COVID-19_Korea_Dataset)
+
+[CMU Website](https://covidcast.cmu.edu)
 
 [Healthcare System Capacity](https://daveluo.github.io/covid19-healthsystemcapacity/)
 
